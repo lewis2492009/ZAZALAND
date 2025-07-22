@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "339813dd-5dd8-3fbd-9bb8-8102dc7d758b",
+    "name": "GALAXY",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
